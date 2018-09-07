@@ -1,4 +1,4 @@
-# generator-gulp-angular
+# Generator-gulp-angularjs
 
 ##### Install required tools `yo`, `gulp` and `bower`:
 ```
